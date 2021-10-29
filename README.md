@@ -16,7 +16,8 @@ Project is divided into many tasks which went challenging many times which solvi
 **Week – 3:** was mostly about applying machine learning algorithms like XGBoost, Random Forest, Logistics Regression and Naïve Bayes on train and test data and finding best suitable ML algo on the same sentiment analysis to be done for the Amazon reviews
 **Week – 4:** Was al about the Deep Learning algorithms implementations and finding out which algo works better on the same 
 
-**Result: -** We can see from above that LSTM and GPU models are not efficient in predicting minor classes. ANN is performing quite good in solving class imbalance problem but it cannot beat traditional ML algorithms.  
+**Result: -** We can see from above that LSTM and GPU models are not efficient in predicting minor classes. ANN is performing quite good in solving class imbalance problem but it cannot beat traditional ML algorithms. 
+<br>
 <row>
 	<img src = "https://cdn.freebiesupply.com/images/large/2x/amazon-logo-transparent.png">
 </row>
