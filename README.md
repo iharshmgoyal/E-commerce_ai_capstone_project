@@ -1,3 +1,5 @@
+<center><img src = "https://cdn.freebiesupply.com/images/large/2x/amazon-logo-transparent.png"></center>
+
 # AI Capstone Project – E-commerce - SimpliLearn Project
 
 Project is divided into many tasks which went challenging many times which solving issues like specially the GPU and Neurons part which gave me understanding of concepts which are related to the same projects I explored many other data sources which are necessary to complete the given tasks.
@@ -13,5 +15,3 @@ Project is divided into many tasks which went challenging many times which solvi
 **Week – 4:** Was al about the Deep Learning algorithms implementations and finding out which algo works better on the same 
 
 **Result: -** We can see from above that LSTM and GPU models are not efficient in predicting minor classes. ANN is performing quite good in solving class imbalance problem but it cannot beat traditional ML algorithms.  
-
-<center><img src = "https://cdn.freebiesupply.com/images/large/2x/amazon-logo-transparent.png"></center>
