@@ -1,4 +1,7 @@
-<center><img src = "https://cdn.freebiesupply.com/images/large/2x/amazon-logo-transparent.png"></center>
+<row>
+	<img src = "https://cdn.freebiesupply.com/images/large/2x/amazon-logo-transparent.png">
+	<img src = "https://enggsolution.com/faculty/images/blog/Skillup%20program%20by%20simplilearn.jpg">
+</row>
 
 # AI Capstone Project – E-commerce - SimpliLearn Project
 
